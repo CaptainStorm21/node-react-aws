@@ -1,0 +1,3 @@
+to run front end 
+    run npm run dev
+    localhost:3000
