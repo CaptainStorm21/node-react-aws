@@ -1,0 +1,19 @@
+#nprogress .bar {
+    height: 4px !important;
+    background: red !important;
+}
+
+.nav a:hover {
+    border-radius: 0px;
+}
+
+body{
+    background-color: rgb(231, 233, 235);
+}
+
+.card-img-top{
+    background-color: lightslategray !important;
+    height: 200px;
+    width: 200px;
+
+}
